@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ModData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <id>1812309975</id>
+  <mod>void_fly</mod>
+  <title>New animation for Void</title>
+  <tags>
+    <string>Gameplay</string>
+    <string>Races</string>
+  </tags>
+  <visibility>0</visibility>
+  <lastUpdate>2019-07-23T04:35:55.7754515+08:00</lastUpdate>
+</ModData>
