@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ModData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <id>1828605247</id>
+  <mod>void_no_pause</mod>
+  <title>Disable pause button(禁止暂停)</title>
+  <tags>
+    <string>Gameplay</string>
+  </tags>
+  <visibility>0</visibility>
+  <lastUpdate>2019-08-08T20:29:45.9107881+08:00</lastUpdate>
+</ModData>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ModData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <id>1828609329</id>
+  <mod>void_no_pause_sneak</mod>
+  <title>No Sneak and Pause button(禁止暂停与潜行)</title>
+  <tags>
+    <string>Gameplay</string>
+  </tags>
+  <visibility>0</visibility>
+  <lastUpdate>2019-08-08T20:35:57.53379+08:00</lastUpdate>
+</ModData>
