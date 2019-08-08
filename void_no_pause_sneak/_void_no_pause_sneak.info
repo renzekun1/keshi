@@ -5,7 +5,8 @@
   <title>No Sneak and Pause button(禁止暂停与潜行)</title>
   <tags>
     <string>Gameplay</string>
+    <string>GUI</string>
   </tags>
   <visibility>0</visibility>
-  <lastUpdate>2019-08-08T20:35:57.53379+08:00</lastUpdate>
+  <lastUpdate>2019-08-09T05:09:00.7533431+08:00</lastUpdate>
 </ModData>

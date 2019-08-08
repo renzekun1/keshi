@@ -5,7 +5,8 @@
   <title>No Sneak button(没有潜行按钮)</title>
   <tags>
     <string>Gameplay</string>
+    <string>GUI</string>
   </tags>
   <visibility>0</visibility>
-  <lastUpdate>2019-08-08T20:08:30.0387902+08:00</lastUpdate>
+  <lastUpdate>2019-08-09T05:10:22.070343+08:00</lastUpdate>
 </ModData>
